@@ -25,10 +25,10 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/trimmer-io/go-xmp v1.0.0
 	go.uber.org/automaxprocs v1.5.1
-	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9
-	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150
-	golang.org/x/text v0.3.7
+	golang.org/x/image v0.18.0
+	golang.org/x/net v0.25.0
+	golang.org/x/sys v0.20.0
+	golang.org/x/text v0.16.0
 	google.golang.org/api v0.75.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.38.0
 )
